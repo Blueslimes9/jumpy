@@ -1,2 +1,1 @@
-# jumpy
-a game i made back in hs
+requires [python](https://www.python.org/downloads/) and [pygame](https://www.pygame.org/download.shtml)
